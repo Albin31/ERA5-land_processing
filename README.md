@@ -5,4 +5,4 @@ Follow the CDS api setup (https://cds.climate.copernicus.eu/how-to-api) to insta
 ### Content
 The file contains the following functions: 
   - call hourly ERA5-land API to get data for multiple variables, over multiple years.
-  - aggregate the monthly time series.
+  - Create hourly time series over all the years downloaded for each variable (netcdf file).
